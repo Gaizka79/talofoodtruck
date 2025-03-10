@@ -1,0 +1,24 @@
+{
+	"Header": {
+		"casa": "Casa"
+	},
+	"Navbar": {
+		"inicio": "Inicio",
+		"historia": "Historia",
+		"menu": "Menu",
+		"about": "About"
+	},
+	"Main": {
+		"origenes": "Origenes del Talo",
+		"introduccion_maiz": "Introducción del maíz:",
+		"el_cultivo_maiz": "El cultivo del maíz llegó al País Vasco en el siglo XVI, tras el descubrimiento de América. Este cereal se adaptó bien al clima y al terreno, convirtiéndose en una de las bases de la alimentación.",
+		"sustituto": "Sustituto del pan",
+		"epocas_escasez": "En épocas de escasez, especialmente en comunidades rurales, el talo se utilizaba como una alternativa al pan de trigo, que era más caro y menos accesible."
+	},
+	"Menu": {
+		"menu": "Menú",
+		"nafarroa": "Talo con chistorra, salsa de queso (picón,azul,gorgonzola) ,cebolla crujiente y mozarela.",
+		"udalaitz": "Morcilla ,pimiento piquillo,almendra ajo negro ,manzana reineta y brotes.",
+		"mondra": "Panceta adobada ,salsa boletus mozarela y cebolla crujiente."
+	}
+}

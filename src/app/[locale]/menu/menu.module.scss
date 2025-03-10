@@ -1,0 +1,65 @@
+@import '../../../styles/variables';
+
+.contenedor {
+	max-width: 800px;
+	// border-style: dotted;
+	margin: auto;
+	width: 90vw;
+	// margin: 20px auto;
+	// padding: 20px;
+	// background-color: $secondary-color;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding-bottom: 10px;
+	margin-bottom: 60px;
+	// display: flex;
+
+	.titulo {
+		text-align: center;
+		// display: flex;
+		margin: 2rem;
+		color: white;
+		font-size: 60px;
+	}
+}
+
+.section {
+	margin-bottom: 30px;
+	text-align: center;
+	// border-style: dashed;
+	border-radius: 15px;
+	background-color: $secondary-color;
+	// color: pink;
+}
+
+.section h3 {
+	font-size: 40px;
+	color: #333;
+	margin-bottom: 10px;
+}
+
+.section .foto {
+	max-width: 100%;
+	height: auto;
+	// border-radius: 30px;
+	// box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.section .texto_foto {
+	font-size: 24px;
+	color: #555;
+	padding: 0 30px;
+	// color: aqua;
+	margin-top: 10px;
+	line-height: 1.5;
+	overflow: hidden;
+}
+
+
+.menu {
+	padding-top: $navBar-padding;
+}
+
+.alergenos {
+	display: block;
+}

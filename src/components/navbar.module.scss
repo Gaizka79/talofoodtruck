@@ -1,0 +1,15 @@
+@import '../styles/variables';
+
+.main_nav {
+    display: flex;
+    justify-content:space-around;
+    background-color: pink;
+    // position: absolute;
+    // bottom: 0;
+    // padding: 20 15px;
+    color: white;
+    font-size: 2vh; 
+    width: 100%;
+    height: $navBar-height;
+    padding: 0;
+}

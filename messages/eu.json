@@ -1,0 +1,24 @@
+{
+	"Header": {
+		"casa": "Etxea"
+	},
+	"Navbar": {
+		"inicio": "Hasiera",
+		"historia": "Historia",
+		"menu": "Menu",
+		"about": "About"
+	},
+	"Main": {
+		"origenes": "Taloaren jatorria",
+		"introduccion_maiz": "Artoaren sarrera: ",
+		"el_cultivo_maiz": "Artoaren laborantza XVI. mendean iritsi zen Euskal Herrira, Amerikaren aurkikuntzaren ondoren. Zereal honek ondo egokitu zituen klimara eta lurrera, elikaduraren oinarrietako bat bihurtuz.",
+		"sustituto": "Ogiarekin ordezkapena: ",
+		"epocas_escasez": "Eskasia garaietan, batez ere landa-eremuetan, taloa ogi zuriaren alternatiba gisa erabiltzen zen; ogi hori garestiagoa eta eskuraezinagoa zen."
+	},
+	"Menu": {
+		"menu": "Menu",
+		"nafarroa": "Txistorra, gazta-saltsa (pikon, urdin, gorgonzola), tipula kurruskaria eta mozzarella duen taloa.",
+		"udalaitz": "Odolkia, piquillo piperra, almendra, baratxuri beltza, erregin sagarra eta kimuak dituen taloa.",
+		"mondra": "Xerriki piperbeltza, boletus saltsa, mozzarella eta tipula kurruskaria duen taloa."
+	}
+}
